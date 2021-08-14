@@ -54,3 +54,27 @@ Mientras más confidencial sea la información, más impacto tiene.
 ### Domina los conceptos y elementos básicos de computación que se usan en la empresa y que son parte de la estrategia de protección de la información
 
 [Artículo en Platzi](https://platzi.com/clases/1647-seguridad-empresas/21801-domina-los-conceptos-y-elementos-basicos-de-comput/)
+
+## Identificar los riesgos y amenazas en Seguridad Informática
+
+### Ingeniería social, Phishing y Publicidad engañosa
+
+- La ingeniría social es el arte de hackear el cerebro humano. (Engañarte).
+- Phising es una clase de ingeniería social. "Tú eres la solución, solo danos tu información para resolver el problema". (Muy común en email)
+- Publicidad engañosa, que ya casi no pasa porque Google trabaja en ello. Pero es una forma más de engañarte.
+
+[Phistank](https://www.phishtank.com/) Es una base de datos sobre ataques phising.
+
+### Ataques DoS y DDoS, Man in the Middle y Ransomware
+
+Estos ataques aprovechan vunerabilidades de software
+
+- DoS y DDoS: Hacer muchísimas peticiones a un servidor para que este se desborde.
+- Man in the middle: Una persona recibiendo la información entre un cliente-servidor a través de la red. Usa una VPN en redes públicas (pero trata de no usar redes públicas ni compartas información confidencial)
+- Ransomware: Cuando "secuestran" nuestra información y piden dinero para entregartela. Haz backups constantes.
+
+### Virus y Malware, Troyanos, Adware y Spyware
+
+- Troyanos: Software oculto, parece confiable pero no lo es.
+- Adware: Malware que muestra ventanas que dicen "Haz ganado X premio".
+- Spyware: No deja rastro de estar instalado y espía tu computadora/celular/tablet.
