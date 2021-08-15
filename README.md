@@ -78,3 +78,92 @@ Estos ataques aprovechan vunerabilidades de software
 - Troyanos: Software oculto, parece confiable pero no lo es.
 - Adware: Malware que muestra ventanas que dicen "Haz ganado X premio".
 - Spyware: No deja rastro de estar instalado y espía tu computadora/celular/tablet.
+
+## Emplear herramientas de prevención y dispositivos de seguridad informática
+
+### Configurar autenticación de dos factores en dispositivos Apple
+
+[Artículo en Platzi](https://platzi.com/clases/1647-seguridad-empresas/21811-configurar-autenticacion-de-dos-factores-en-dispos/)
+
+### Firewall
+
+El firewall siempre está monitoreando todo lo que entre y sale en la red de nuestro computador. Nosotros podemos configurarlo con reglas para dejar que algunos paquetes no entren. **Siempre debes tener el firewall activado**.
+
+### Cookies
+
+Son pequeños pedazos de texto que se envían desde nuestro navegador y son enviados al creador del sitio web.
+
+El sitio web debe de mencionar qué información tuya es la que quiere guardar y debe preguntarte si tú estás de acuerdo en dársela.
+
+### Métodos de Defensa: Antivirus, Adblock, Antispam y Web Filter
+
+- Antivirus: tiene una base de datos de los virus y los compara con los softwares que estemos usando. Si hay un posible virus, lo pone en alerta.
+- Adblock: bloquea la publicidad
+- Antispam: Google ha avanzado mucho con esto y ya envía los emails a esta categoría.
+- Webfilter: Nos avisa si una página es segura o no.
+
+Algunos antivirus:
+
+- Avast (incluye extensión para el navegador)
+- Norton
+- Kasperksy
+- Bitdefender
+
+### Métodos de defensa: Encriptación
+
+Encriptación: Tomar una cadena, usar un algoritmo y trasnformarlo en algo no legible. Se necesita una llave para tener el mensaje original.
+
+### Métodos de defensa: Two factor authentication
+
+Son como contraseñas dinámicas. Tienes que usarla cuando hagas login o acciones importantes. Te sirven para darle una capa extra de seguridad. Tienen caducidad por lo general de 1 minuto.
+
+### Configurar autenticación de dos factores en tu cuenta de google
+
+[Artículo en Platzi](https://platzi.com/clases/1647-seguridad-empresas/21812-configurar-autenticacion-de-dos-factores-en-tu-cue/)
+
+### Diseña contraseñas seguras
+
+Es importante tener diferentes contraseñas en diferentes cuentas. Debemos usar un administrador de contraseñas para almancenar todas.
+
+Tips:
+
+- No uses palabras obvias
+- Usar por lo menos 8 caracteres con letras mayúsculas, minúsculas, números y símbolos
+- No guardes las contraseñas en lugares visibles ni en bloc de notas
+- No le digas tu contraseña a nadie
+- No uses la misma contraseña para todo
+- Entre más larga sea tu contraseña es más segura
+- No uses palabras elegidas desde el diccionario
+- No uses patrones comunes: "contraseña", "1234", etc.
+- Usa un generador de contraseñas
+- Elige una frase que puedas recordar fácilmente -> "Bart Simpson esta nadando en el mar la vida es mas sabrosa"
+- Agrega números *ALEATORIOS* (no tu cumpleaños)
+- Revisa qué tan segura es
+
+[Lista de Diceware](https://theworld.com/~reinhold/diceware.html)
+
+### Password Management Systems para la gestión de contraseñas
+
+Algunos gestores de contraseñas:
+
+- [Bitwarden](https://bitwarden.com/)
+- [KeePass](https://keepass.info/)
+- [LastPass](https://www.lastpass.com/es/)
+- Safe in cloud (app)
+
+### Uso de VPN: Conexión segura en redes
+
+Virtual Private Network: hace que estés conectado en una red privada. Hace que tu navegación en internet sea más segura. Engaña a los servidores haciéndoles creer que estás ubicado en otra parte del mundo. Por ejemplo puedes ver el catálogo de Netflix de USA desde México con una VPN. La VPN encripta todos los datos en tu conexión.
+
+Servicios de VPN:
+
+- [Kasperky](https://latam.kaspersky.com/vpn-secure-connection)
+- [Tunnelbear](https://www.tunnelbear.com/)
+- [Nord VPN](https://nordvpn.com/es/)
+- [Navegador Opera](https://www.opera.com/es-419/features/free-vpn)
+
+Para confirmar que la VPN funciona, podemos usar [https://whatismyipaddress.com](What's my IP)
+
+### Instalación de VPN en tu teléfono Android
+
+Descargar Tunelbear desde la PlayStore.
