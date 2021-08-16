@@ -167,3 +167,18 @@ Para confirmar que la VPN funciona, podemos usar [https://whatismyipaddress.com]
 ### Instalación de VPN en tu teléfono Android
 
 Descargar Tunelbear desde la PlayStore.
+
+## Identificar las acciones a tomar en caso de ser victima de un ataque de seguridad informática
+
+### Consejos para proteger tu información en línea
+
+[Artículo en Platzi](https://platzi.com/clases/1647-seguridad-empresas/21817-consejos-para-proteger-tu-informacion-en-linea/)
+
+### Mejores prácticas al hacer uso de dispositivos asignados por la empresa
+
+[Artículo en Platzi](https://platzi.com/clases/1647-seguridad-empresas/21818-mejores-practicas-al-hacer-uso-de-dispositivos-asi/)
+
+### Cierre: ¿Qué hacer en caso de ser víctima?
+
+Si eres víctima, **no te quedes callado/a**. Avísale a la persona encargada de tecnología/seguridad. Di qué información se expuso y cómo sucedió el evento.
+
